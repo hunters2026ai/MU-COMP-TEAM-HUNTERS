@@ -1,0 +1,6 @@
+# secrets and local-only files — never commit
+n8n/credentials.json
+*secrets*.json
+*_key.txt
+.env*
+node_modules/
